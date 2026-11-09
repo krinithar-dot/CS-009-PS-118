@@ -1,7 +1,7 @@
 
 from datetime import date
-from models import Bench
-from bench_manager import BenchManager
+from src.models import Bench
+from src.bench_manager import BenchManager
 
 
 manager = BenchManager()

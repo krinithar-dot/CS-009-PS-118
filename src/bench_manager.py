@@ -1,5 +1,5 @@
 
-from models import Bench
+from src.models import Bench
 
 
 class BenchManager:
